@@ -1,0 +1,2 @@
+Masukan, bug report, dan saran fitur bisa dikirim di:
+https://github.com/Leon406/ToolsFx/issues

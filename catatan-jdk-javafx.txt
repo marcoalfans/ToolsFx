@@ -1,0 +1,4 @@
+Di Linux, gunakan JDK yang menyertakan JavaFX atau pasang OpenJFX terpisah.
+
+Jika muncul error JavaFX saat menjalankan ToolsFx, pakai launcher:
+`./run-toolsfx-id.sh`

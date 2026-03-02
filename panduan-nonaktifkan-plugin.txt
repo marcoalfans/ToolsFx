@@ -1,0 +1,23 @@
+Nonaktifkan modul yang tidak dipakai di file `ToolsFx.properties`.
+Panduan konfigurasi ada di README:
+https://github.com/Leon406/ToolsFx/blob/dev/README-zh.md
+
+Setelah nonaktif, Anda juga bisa hapus file JAR terkait di folder `lib` agar lebih ringan.
+
+Contoh JAR untuk plugin kompresi:
+- com.springsource.org.objectweb.asm-3.2.0.jar
+- commons-compress-1.21.jar
+- dec-0.1.2.jar
+- plugin-compress-xxx.jar
+- xz-1.9.jar
+- zstd-jni-1.5.2-1.jar
+
+Untuk fitur request API/network:
+- plugin-apipost-xxx.jar
+
+Untuk fitur konversi koordinat:
+- plugin-location-xxx.jar
+
+URL update plugin:
+https://leon.lanzoub.com/b0d9w4cof
+Kode ekstrak: ax63

@@ -1,0 +1,12 @@
+Folder `dict` secara default memakai password list `top1000`.
+
+Anda bisa menambahkan kamus `rockyou` (~14 juta entri):
+https://leon.lanzoub.com/iNxXG04cfbib
+
+Catatan:
+Saat klik `crack`, kamus akan dibaca sekaligus ke memori.
+Jika menambahkan kamus `rockyou`, penggunaan RAM kira-kira ~2 GB.
+Disarankan coba layanan online (misalnya cmd5) terlebih dulu. Jika gagal, lanjut pakai ToolsFx.
+
+Estimasi dari pembuat:
+Uji ~14 juta hash MD5 butuh sekitar 14 detik.
